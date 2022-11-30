@@ -8,3 +8,9 @@ I am a 18-years-old girl who's currently studying Iformatics an Intelligent Syst
 - Queen 
 - Pink Floyd
 
+## ADVENTURE AROUN THE WORLD - CUISINE VERSION
+I love cooking and travelling so as you can guess during my journeys i try to collect as many local recepis as I can. I think It is time i shared them with you!
+
+# Italy 
+
+
