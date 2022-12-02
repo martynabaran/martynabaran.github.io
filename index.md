@@ -17,4 +17,7 @@ I am a 18-years-old girl who's currently studying Iformatics an Intelligent Syst
   - "The Green Mile" Frank Darabont
   - "Schindler's list" Steven Spielberg
   
+  
+  ![](https://github.com/martynabaran/martynabaran.github.io/blob/main/zdjecie.jpg)
+  
 
