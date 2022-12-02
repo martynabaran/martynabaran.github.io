@@ -19,7 +19,7 @@ I am a 18-years-old girl who's currently studying Iformatics an Intelligent Syst
   </details>
   
   
-  ![](https://github.com/martynabaran/martynabaran.github.io/blob/main/zdjecie.jpg)
+  ![](https://github.com/martynabaran/martynabaran.github.io/blob/fa5e6181f1177346876a684e29ccde46f4eca894/zdj3.jpg)
   
   ## In the future...
 What will the future bring? No one knows. But my plans are to pass this semester and learn how to code.
