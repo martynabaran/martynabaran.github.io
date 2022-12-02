@@ -8,14 +8,14 @@ I am a 18-years-old girl who's currently studying Iformatics an Intelligent Syst
 - Queen 
 - Pink Floyd
 
-# List of my favourite movies
+# List of my favourite movies:
 <details>
   <summary>click here</summary>
-   * "The Shawshank Redemption" Frank Darabont,
-   * "Interstellar", 
-   * "Forest Gump" Robert Zemeckis,
-   * "The Green Mile" Frank Darabont,
-   * "Schindler's list" Steven Spielberg,
+   - "The Shawshank Redemption" Frank Darabont,
+   - "Interstellar", 
+   - "Forest Gump" Robert Zemeckis,
+   - "The Green Mile" Frank Darabont,
+   - "Schindler's list" Steven Spielberg,
   </details>
   
   
