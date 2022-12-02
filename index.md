@@ -11,11 +11,11 @@ I am a 18-years-old girl who's currently studying Iformatics an Intelligent Syst
 # List of my favourite movies
 <details>
   <summary>click here</summary>
-  - "The Shawshank Redemption" Frank Darabont
-  - "Interstellar" 
-  - "Forest Gump" Robert Zemeckis
-  - "The Green Mile" Frank Darabont
-  - "Schindler's list" Steven Spielberg
+   * "The Shawshank Redemption" Frank Darabont
+   * "Interstellar" 
+   * "Forest Gump" Robert Zemeckis
+   * "The Green Mile" Frank Darabont
+   * "Schindler's list" Steven Spielberg
   </details>
   
   
@@ -26,6 +26,6 @@ What will the future bring? No one knows. But my plans are to pass this semester
 
 Stay tuned! Maybe our game will enter the market and sooner or later we'll become millionaires.
 
-#### [viev my github prifile](https://github.com/martynabaran)
+#### [viev my github profile](https://github.com/martynabaran)
   
 
