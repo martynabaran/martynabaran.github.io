@@ -8,9 +8,13 @@ I am a 18-years-old girl who's currently studying Iformatics an Intelligent Syst
 - Queen 
 - Pink Floyd
 
-## ADVENTURE AROUN THE WORLD - CUISINE VERSION
-I love cooking and travelling so as you can guess during my journeys i try to collect as many local recepis as I can. I think It is time i shared them with you!
-
-# Italy 
-
+# List of my favourite movies
+<details>
+  <summary>click here</summary>
+  - "The Shawshank Redemption" Frank Darabont
+  - "Interstellar" 
+  - "Forest Gump" Robert Zemeckis
+  - "The Green Mile" Frank Darabont
+  - "Schindler's list" Steven Spielberg
+  
 
